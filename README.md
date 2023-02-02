@@ -1,1 +1,1 @@
-# template-vite-vue-scss
+Teplate base
