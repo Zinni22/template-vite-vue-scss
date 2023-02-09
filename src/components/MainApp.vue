@@ -1,23 +1,27 @@
 <script>
 export default {
+name: 'MainApp',
 
-  name: 'MainApp',
+  data () {
+      return{
 
-    data () {
-        return{
+      }
+  },
 
-        }
-    }
+  components:{},
+  methods:{},
 
 }
 </script>
 
 <template>
 
-    MAIN
+    <main>
+        MAIN
+    </main>
  
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 
 </style>

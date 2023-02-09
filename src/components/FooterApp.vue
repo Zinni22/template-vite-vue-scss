@@ -7,17 +7,22 @@ export default {
         return{
 
         }
-    }
+    },
+
+    components:{},
+    methods:{},
 
 }
 </script>
 
 <template>
 
-    FOOTER
+    <footer>
+        FOOTER
+    </footer>
  
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 
 </style>

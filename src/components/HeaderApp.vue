@@ -1,23 +1,27 @@
 <script>
 export default {
+name: 'HeaderApp',
 
-    name: 'HeaderApp',
+  data () {
+      return{
 
-    data () {
-        return{
+      }
+  },
 
-        }
-    }
+  components:{},
+  methods:{},
 
 }
 </script>
 
 <template>
 
-    HEADER
+    <header>
+        HEADER
+    </header>
  
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 
 </style>
